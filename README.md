@@ -10,9 +10,9 @@ Be careful to only alter or delete features that your approved before to be not 
 ## Commands
 
 push your data from local with linux by using 
-''
+```
 nc localhost:5000 < /data/data.json
-''
+```
 
 ## Sources
 Logstash Documentation
