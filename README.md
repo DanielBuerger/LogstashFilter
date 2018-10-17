@@ -1,9 +1,9 @@
 # LogstashFilter
-Logstash filter for data preprocessing on numerical data
+Logstash filter for data preprocessing and effecient data storage.
 
 ## Intention
 This is a logstash filter, where you can push json log files and csv log files into your Elasticsearch database. Logstash also gives you 
-some tools to preprocess those data thereby reducing the weight of your database. You can use 
+some tools to preprocess those data thereby reducing the weight of your database. You can modify it for live data feed aswell. 
 
 Be careful to only alter or delete features that your approved before to be not relevant or under dataprotection.
 
